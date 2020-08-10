@@ -1,3 +1,5 @@
 composer dumpautoload
 
 ./vendor/bin/php-cs-fixer fix --config=.php_cs YOUR_ROOT_PATH_HERE
+
+git add -A
